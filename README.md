@@ -1,2 +1,2 @@
 # Phone_-reconnaissance
-Advanced information gathering tool
+Advanced information gathering osint tool for phone numbers
