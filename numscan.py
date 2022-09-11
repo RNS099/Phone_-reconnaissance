@@ -3,7 +3,7 @@ from geopy.geocoders import Nominatim
 
 def get_details(phno):
 
-    key = "Ag74KV0KPELfixqt7U97FvX4eS8W0iTa4DTK2Upm"
+    key = "your numlookup api key"
     if phno :
         url = f"https://api.numlookupapi.com/v1/validate/{phno}?apikey={key}"
         #headers = { "apikey" : key}
